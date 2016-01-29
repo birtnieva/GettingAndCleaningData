@@ -1,5 +1,5 @@
 
-## 
+## Getting And Cleaning Data
 
 #### About the Dataset
 
@@ -113,13 +113,13 @@ tBodyGyroMean
 tBodyGyroJerkMean
 ```
 
-### Variables
+#### Variables
 
-* Subject
+##### Subject
 
     1..30
 
-* Activity
+##### Activity
 
     1    WALKING
 
@@ -133,7 +133,7 @@ tBodyGyroJerkMean
    
     6    LAYING
 
-* Features
+##### Features
 
     The complete list of variables of each feature vector are the following:
 
@@ -419,6 +419,8 @@ tBodyGyroJerkMean
 279. fBodyAcc-min()-Y	|	560. angle(Y,gravityMean)
 280. fBodyAcc-min()-Z	|	561. angle(Z,gravityMean)
 281. fBodyAcc-sma()	|	
+
+#### Tidy Data Set
 
 
 
