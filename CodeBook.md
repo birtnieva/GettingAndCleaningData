@@ -64,8 +64,8 @@ Notes:
 
     The complete list of variables of each feature vector are the following:
 
-:1. tBodyAcc-mean()-X    | :282. fBodyAcc-energy()-X
----                     | ---    
+1. tBodyAcc-mean()-X    | 282. fBodyAcc-energy()-X
+:---                     | :---    
 2. tBodyAcc-mean()-Y	|	283. fBodyAcc-energy()-Y
 3. tBodyAcc-mean()-Z	|	284. fBodyAcc-energy()-Z
 4. tBodyAcc-std()-X	|	285. fBodyAcc-iqr()-X
