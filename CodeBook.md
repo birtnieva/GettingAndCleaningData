@@ -454,41 +454,41 @@ Activity performed by the subject.
 
 Measurements on the mean and standard deviation for each measurement.
 
-1.	subject	|	35.	time-GravityAccMag-mean()
-:---                     | :---   
-2.	activity	|	36.	time-GravityAccMag-std()
-3.	time-BodyAcc-mean()-X	|	37.	time-BodyAccJerkMag-mean()
-4.	time-BodyAcc-mean()-Y	|	38.	time-BodyAccJerkMag-std()
-5.	time-BodyAcc-mean()-Z	|	39.	time-BodyGyroMag-mean()
-6.	time-BodyAcc-std()-X	|	40.	time-BodyGyroMag-std()
-7.	time-BodyAcc-std()-Y	|	41.	time-BodyGyroJerkMag-mean()
-8.	time-BodyAcc-std()-Z	|	42.	time-BodyGyroJerkMag-std()
-9.	time-GravityAcc-mean()-X	|	43.	frequency-BodyAcc-mean()-X
-10.	time-GravityAcc-mean()-Y	|	44.	frequency-BodyAcc-mean()-Y
-11.	time-GravityAcc-mean()-Z	|	45.	frequency-BodyAcc-mean()-Z
-12.	time-GravityAcc-std()-X	|	46.	frequency-BodyAcc-std()-X
-13.	time-GravityAcc-std()-Y	|	47.	frequency-BodyAcc-std()-Y
-14.	time-GravityAcc-std()-Z	|	48.	frequency-BodyAcc-std()-Z
-15.	time-BodyAccJerk-mean()-X	|	49.	frequency-BodyAccJerk-mean()-X
-16.	time-BodyAccJerk-mean()-Y	|	50.	frequency-BodyAccJerk-mean()-Y
-17.	time-BodyAccJerk-mean()-Z	|	51.	frequency-BodyAccJerk-mean()-Z
-18.	time-BodyAccJerk-std()-X	|	52.	frequency-BodyAccJerk-std()-X
-19.	time-BodyAccJerk-std()-Y	|	53.	frequency-BodyAccJerk-std()-Y
-20.	time-BodyAccJerk-std()-Z	|	54.	frequency-BodyAccJerk-std()-Z
-21.	time-BodyGyro-mean()-X	|	55.	frequency-BodyGyro-mean()-X
-22.	time-BodyGyro-mean()-Y	|	56.	frequency-BodyGyro-mean()-Y
-23.	time-BodyGyro-mean()-Z	|	57.	frequency-BodyGyro-mean()-Z
-24.	time-BodyGyro-std()-X	|	58.	frequency-BodyGyro-std()-X
-25.	time-BodyGyro-std()-Y	|	59.	frequency-BodyGyro-std()-Y
-26.	time-BodyGyro-std()-Z	|	60.	frequency-BodyGyro-std()-Z
-27.	time-BodyGyroJerk-mean()-X	|	61.	frequency-BodyAccMag-mean()
-28.	time-BodyGyroJerk-mean()-Y	|	62.	frequency-BodyAccMag-std()
-29.	time-BodyGyroJerk-mean()-Z	|	63.	frequency-BodyAccJerkMag-mean()
-30.	time-BodyGyroJerk-std()-X	|	64.	frequency-BodyAccJerkMag-std()
-31.	time-BodyGyroJerk-std()-Y	|	65.	frequency-BodyGyroMag-mean()
-32.	time-BodyGyroJerk-std()-Z	|	66.	frequency-BodyGyroMag-std()
-33.	time-BodyAccMag-mean()	|	67.	frequency-BodyGyroJerkMag-mean()
-34.	time-BodyAccMag-std()	|	68.	frequency-dBodyGyroJerkMag-std()
+1.	time-BodyAcc-mean()-X	|	34.	time-GravityAccMag-std()
+:---                        | :---  
+2.	time-BodyAcc-mean()-Y	|	35.	time-BodyAccJerkMag-mean()
+3.	time-BodyAcc-mean()-Z	|	36.	time-BodyAccJerkMag-std()
+4.	time-BodyAcc-std()-X	|	37.	time-BodyGyroMag-mean()
+5.	time-BodyAcc-std()-Y	|	38.	time-BodyGyroMag-std()
+6.	time-BodyAcc-std()-Z	|	39.	time-BodyGyroJerkMag-mean()
+7.	time-GravityAcc-mean()-X	|	40.	time-BodyGyroJerkMag-std()
+8.	time-GravityAcc-mean()-Y	|	41.	frequency-BodyAcc-mean()-X
+9.	time-GravityAcc-mean()-Z	|	42.	frequency-BodyAcc-mean()-Y
+10.	time-GravityAcc-std()-X	|	43.	frequency-BodyAcc-mean()-Z
+11.	time-GravityAcc-std()-Y	|	44.	frequency-BodyAcc-std()-X
+12.	time-GravityAcc-std()-Z	|	45.	frequency-BodyAcc-std()-Y
+13.	time-BodyAccJerk-mean()-X	|	46.	frequency-BodyAcc-std()-Z
+14.	time-BodyAccJerk-mean()-Y	|	47.	frequency-BodyAccJerk-mean()-X
+15.	time-BodyAccJerk-mean()-Z	|	48.	frequency-BodyAccJerk-mean()-Y
+16.	time-BodyAccJerk-std()-X	|	49.	frequency-BodyAccJerk-mean()-Z
+17.	time-BodyAccJerk-std()-Y	|	50.	frequency-BodyAccJerk-std()-X
+18.	time-BodyAccJerk-std()-Z	|	51.	frequency-BodyAccJerk-std()-Y
+19.	time-BodyGyro-mean()-X	|	52.	frequency-BodyAccJerk-std()-Z
+20.	time-BodyGyro-mean()-Y	|	53.	frequency-BodyGyro-mean()-X
+21.	time-BodyGyro-mean()-Z	|	54.	frequency-BodyGyro-mean()-Y
+22.	time-BodyGyro-std()-X	|	55.	frequency-BodyGyro-mean()-Z
+23.	time-BodyGyro-std()-Y	|	56.	frequency-BodyGyro-std()-X
+24.	time-BodyGyro-std()-Z	|	57.	frequency-BodyGyro-std()-Y
+25.	time-BodyGyroJerk-mean()-X	|	58.	frequency-BodyGyro-std()-Z
+26.	time-BodyGyroJerk-mean()-Y	|	59.	frequency-BodyAccMag-mean()
+27.	time-BodyGyroJerk-mean()-Z	|	60.	frequency-BodyAccMag-std()
+28.	time-BodyGyroJerk-std()-X	|	61.	frequency-BodyAccJerkMag-mean()
+29.	time-BodyGyroJerk-std()-Y	|	62.	frequency-BodyAccJerkMag-std()
+30.	time-BodyGyroJerk-std()-Z	|	63.	frequency-BodyGyroMag-mean()
+31.	time-BodyAccMag-mean()	|	64.	frequency-BodyGyroMag-std()
+32.	time-BodyAccMag-std()	|	65.	frequency-BodyGyroJerkMag-mean()
+33.	time-GravityAccMag-mean()	|	66.	frequency-dBodyGyroJerkMag-std()
+
 
 
 <BN>
