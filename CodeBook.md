@@ -4,20 +4,26 @@
 
 ### Dataset
 The dataset for this project is available at:
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ### Variables
 
-#### Subject
+* Subject
     1..30
 
-#### Activity
-*    1   WALKING
-*    2   WALKING_UPSTAIRS
-*    3   WALKING_DOWNSTAIRS
-*    4   SITTING
-*    5   STANDING
-*    6   LAYING
+* Activity
+1   WALKING
+
+2   WALKING_UPSTAIRS
+
+3   WALKING_DOWNSTAIRS
+
+4   SITTING
+    
+5   STANDING
+   
+6   LAYING
 
 Mean Value & Standard Deviations (-1.00000000..1.00000000)
 
