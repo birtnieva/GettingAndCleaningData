@@ -455,7 +455,7 @@ Activity performed by the subject.
 Measurements on the mean and standard deviation for each measurement.
 
 1.	subject	|	35.	time-GravityAccMag-mean()
-2.	:---                     | :---   
+:---                     | :---   
 2.	activity	|	36.	time-GravityAccMag-std()
 3.	time-BodyAcc-mean()-X	|	37.	time-BodyAccJerkMag-mean()
 4.	time-BodyAcc-mean()-Y	|	38.	time-BodyAccJerkMag-std()
