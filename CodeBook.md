@@ -10,20 +10,22 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ### Variables
 
 * Subject
+
     1..30
 
 * Activity
-1   WALKING
 
-2   WALKING_UPSTAIRS
+    1    WALKING
 
-3   WALKING_DOWNSTAIRS
+    2    WALKING_UPSTAIRS
 
-4   SITTING
+    3    WALKING_DOWNSTAIRS
+
+    4    SITTING
     
-5   STANDING
+    5    STANDING
    
-6   LAYING
+    6    LAYING
 
 Mean Value & Standard Deviations (-1.00000000..1.00000000)
 
