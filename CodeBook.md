@@ -139,7 +139,7 @@ Activity performed by the subject.
 
 #### Features
 
-The complete list of variables of each feature vector are the following:
+The complete list of variable names of each feature vector are the following:
 
 1. tBodyAcc-mean()-X    | 282. fBodyAcc-energy()-X
 :---                     | :---    
@@ -424,7 +424,7 @@ The complete list of variables of each feature vector are the following:
 280. fBodyAcc-min()-Z	|	561. angle(Z,gravityMean)
 281. fBodyAcc-sma()	|	
 
-### Tidy Data Set
+### Tidy Data Set 1
 
 Only Measurements on the mean and standard deviation for each measurement have been included in the tidy data set as requirement to this exercise.
 
@@ -452,7 +452,7 @@ Activity performed by the subject.
     
 #### Features 
 
-Measurements on the mean and standard deviation for each measurement.
+Measurements on the mean value and standard deviation for each measurement.
 
 1.	time-BodyAcc-mean()-X	|	34.	time-GravityAccMag-std()
 :---                        | :---  
@@ -489,6 +489,8 @@ Measurements on the mean and standard deviation for each measurement.
 32.	time-BodyAccMag-std()	|	65.	frequency-BodyGyroJerkMag-mean()
 33.	time-GravityAccMag-mean()	|	66.	frequency-dBodyGyroJerkMag-std()
 
+### Tidy Data Set 2
 
+    Tidy Data Set 2 contains the average of each variable for each activity and each subject.
+    
 
-<BN>
