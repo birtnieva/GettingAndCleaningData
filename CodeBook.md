@@ -491,6 +491,6 @@ Measurements on the mean value and standard deviation for each measurement.
 
 ### Tidy Data Set 2
 
-    Tidy Data Set 2 contains the average of each variable for each activity and each subject.
+    Tidy Data Set 2 contains the average of each variable for each activity and each subject in Tidy Data Set 1.
     
 
