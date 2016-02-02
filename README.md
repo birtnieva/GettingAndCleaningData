@@ -5,9 +5,9 @@
 The following describes the transformation done on the data set by the script run_analysis.R to generate the files
 "tidy_data_set_1.txt" and "tidy_data_set_2.txt".
 
-1. Merges the test data set from text files - subject_train, y_train and x_train files using cbind. Column 1 contains the train subject ID, column 2 contains the activity ID and columns 3-563 train feature data.
+1. Merges the train data set from text files - subject_train, y_train and x_train files using cbind. Column 1 contains the train subject ID, column 2 contains the activity ID and columns 3-563 train feature data.
 
-2. Merges the train data set from text files - subject_test, y_test and x_test using cbind. Column 1 contains the test subject ID, column 2 contains the activity ID and columns 3-563 test feature data.
+2. Merges the test data set from text files - subject_test, y_test and x_test using cbind. Column 1 contains the test subject ID, column 2 contains the activity ID and columns 3-563 test feature data.
 
 3. Further combines the merged train and test data sets using rbind, creating a 10299 x 563 data set
 
