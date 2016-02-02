@@ -111,7 +111,7 @@ tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
-
+```
 
 ### Variables
 
@@ -424,7 +424,6 @@ The complete list of variable names of each feature vector are the following:
 280. fBodyAcc-min()-Z	|	561. angle(Z,gravityMean)
 281. fBodyAcc-sma()	|	
 
-```
 
 ### Tidy Data Set 1
 
