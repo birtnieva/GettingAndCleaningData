@@ -427,7 +427,7 @@ The complete list of variable names of each feature vector are the following:
 
 ### Tidy Data Set 1
 
-Only Measurements on the mean and standard deviation for each measurement have been included in the tidy data set as requirement to this exercise.
+Tidy Data Set 1 is a 10299 x 68 table. Only Measurements on the mean value and standard deviation (mean and std) for each measurement have been included in the tidy data set as requirement to this exercise.
 
 #### Subject
 
@@ -492,6 +492,6 @@ Measurements on the mean value and standard deviation for each measurement.
 
 ### Tidy Data Set 2
 
-    Tidy Data Set 2 contains the average of each variable for each activity and each subject in Tidy Data Set 1.
+Tidy Data Set 2 is a 180 x 68 table derived from Tidy Data Set 1. Obsevations has been grouped by subject id by activity type and data averaged to form this data set. Variable names are the same that of Tidy Data Set 1.
     
 
