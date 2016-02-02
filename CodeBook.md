@@ -492,10 +492,13 @@ Measurements on the mean value and standard deviation for each measurement.
 ### Tidy Data Set 2
 
 Tidy Data Set 2 is a 180 x 68 table derived from Tidy Data Set 1. Obsevations has been grouped by subject id by activity type and data averaged to form this data set. Variable names are the same that of Tidy Data Set 1.
+<<<<<<< HEAD
     
 
 
 	
 
+=======
+>>>>>>> cc9299a137ee889c1881f5c4a3cecfbb17470290
     
 
